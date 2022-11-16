@@ -1,6 +1,6 @@
 # RedisJson
 
-edisJSON is a Redis module that implements ECMA-404 The JSON Data Interchange Standard as a native data type. It allows storing, updating and fetching JSON values from Redis keys (documents).
+RedisJSON is a Redis module that implements ECMA-404 The JSON Data Interchange Standard as a native data type. It allows storing, updating and fetching JSON values from Redis keys (documents).
 
 Compliled on https://github.com/RedisJSON/RedisJSON 
 
